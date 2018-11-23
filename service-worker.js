@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pwaexpresstest/precache-manifest.b7c1f3fe7ef62c4e8102e02a7bc5dfe5.js"
+  "/precache-manifest.3345d8fdeaa0420c7933e5933d1231a4.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "eventapp"});
